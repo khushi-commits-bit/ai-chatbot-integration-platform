@@ -42,10 +42,8 @@ Install the following:
 
 **1. Clone the repository**
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-chatbot-integration-platform.git
+git clone https://github.com/khushi-commits-bit/ai-chatbot-integration-platform.git
 ```
 
 **2. Open the project folder**
